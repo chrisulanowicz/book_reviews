@@ -1,0 +1,43 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: "geneva",sans-serif;
+}
+#container {
+	margin: 10px auto;
+	width: 800px;
+	background-color: lightcyan;
+	padding: 30px;
+}
+	.errors {
+		color: red;
+		font-weight: bold;
+		text-decoration: underline;
+		text-align: center;
+		margin-top: 50px;
+	}
+header {
+
+}
+	.logout {
+		margin-left: 20px;
+		float: right;
+	}
+#main_content {
+
+}
+	h4 {
+		margin-top: 20px;
+	}
+	h5 {
+		margin-top: 10px;
+	}
+	p {
+		margin: 5px 0px 0px 30px;
+	}
+	.button {
+			background-color: lightblue;
+			padding: 5px;
+			display: block;
+			margin: 20px 0px 0px 200px;
+	}
